@@ -2,7 +2,7 @@
 줄을 바꿔 출력하기
 
 Hello
-World
+World 
 '''
 
 # 방법1 - print() 함수를 2번 호출
