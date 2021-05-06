@@ -1,7 +1,7 @@
 '''
 큰 따옴표(")(double quotation mark)가 들어있는 출력문
 
-"Hello World"
+"Hello World" 
 '''
 
 # 방법1 - 작은 따옴표로 감싸기
