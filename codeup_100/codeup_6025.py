@@ -3,10 +3,10 @@
 합을 출력하기
 
 입력예시
-hello world
+123 -123
 
 출력예시
-helloworld
+0
 
 '''
 
