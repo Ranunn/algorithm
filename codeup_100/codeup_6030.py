@@ -22,5 +22,5 @@ A
 '''
 
 data = input('유니코드 영문자를 1개 입력해주세요. (예) a b D H 등\n->')
-uni = ord(data)     # 10진수를 16진수로 인식하여 변수에 저장
+uni = ord(data)     # 문자를 Unicode로 변환하여 변수에 저장
 print(uni)
