@@ -10,6 +10,6 @@ ff
 
 '''
 
-data = input('10진수를 입력해주세요. (예) 0.9 0.1\n->')
+data = input('10진수를 입력해주세요.\n->')
 decimal = int(data)
 print('%x' %decimal)
