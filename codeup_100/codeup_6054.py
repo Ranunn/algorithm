@@ -31,7 +31,7 @@ while(True):
         break
 
 # 방법 1
-print(a!=0 and b!=0)
+print(a!=0 + b!=0)
 
 # 방법 2
 print(bool(a) and bool(b))
