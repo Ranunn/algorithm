@@ -17,17 +17,6 @@ Best!!!
 
 '''
 
-# while(True):
-#     a = input('평가를 입력해주세요. (예) A, B, C , D \n->')
-#
-#     try:
-#         a = str(a)
-#     except:
-#         print('잘못 입력하였습니다.')
-#         continue
-#     else:
-#         break
-
 
 a = input('평가를 입력해주세요. (예) A, B, C , D \n->')
 
